@@ -1,0 +1,3 @@
+/home/katya/Документы/GitHub/lb5_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/katya/Документы/GitHub/lb5_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/katya/Документы/GitHub/lb5_4/cmake-build-debug/CMakeFiles/lb5_4.dir
